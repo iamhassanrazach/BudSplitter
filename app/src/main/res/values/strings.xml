@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BudSplitter</string>
+    <string name="instruction_text">Tap Start with your Galaxy Buds on</string>
+    <string name="btn_start_audio">Start Audio</string>
+    <string name="btn_stop_audio">Stop Audio</string>
+    <string name="status_streaming">Active!\nLeft: Media | Right: Ambient Mic</string>
+    <string name="status_stopped">Audio Stopped</string>
+    <string name="permission_required_toast">Microphone permission is required</string>
+    <string name="label_ambient_volume">Ambient Mic Amplification</string>
+    <string name="btn_open_sound_balance">Configure Left Ear Only (Settings)</string>
+    <string name="switch_split_mode">Split Mode (Left Only Media)</string>
+
+    <!-- Required format & mode strings for MainActivity.kt -->
+    <string name="ambient_mic_gain_format">Ambient Mic Gain: %1$d%%</string>
+    <string name="mode_split">Split Mode: Left Ear Music Only</string>
+    <string name="mode_dual">Dual Mode: Music in Both Ears</string>
+</resources>
